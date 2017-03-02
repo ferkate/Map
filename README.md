@@ -1,5 +1,4 @@
 # Map
-# ReactMap
 React map using react-leaflet on front-end and socket-io on server side.
 
 1) Для того чтобы начать работу необходимо запустить серверную часть c помощью node.js
